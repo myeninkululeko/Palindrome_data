@@ -1,1 +1,1 @@
-# Palindrome_data
+# Palindrome_data solutions
